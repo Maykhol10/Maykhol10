@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm Diosdado Maykhol Jurado Mulato
 
-<img align="right" alt="IoT Animation" width="250" src="https://cdn.dribbble.com/users/181989/screenshots/15871388/media/4878f051f0e3a6547e8f6dc6b8e3c3da.gif">
-
 __Bachiller en Ingeniería Mecatrónica__ especializado en __IoT, automatización industrial y sistemas de control__.
 
 Me apasiona desarrollar soluciones innovadoras que integran __sistemas mecánicos, electrónicos y software__ para crear proyectos de IoT inteligentes y automatizados.
@@ -20,12 +18,6 @@ Me apasiona desarrollar soluciones innovadoras que integran __sistemas mecánico
 ---
 
 ## 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" alt="Python">  &nbsp;
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30" height="30" alt="C++">  &nbsp;
-  <img src="https://media.giphy.com/media/XAxylRMCdpbOVUruVv/giphy.gif" width="30" height="30" alt="Arduino">
-</div>
 
 ### 🌐 IoT & Embedded Systems
 
@@ -191,14 +183,8 @@ Breve descripción del proyecto y qué problema resuelve.
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Maykhol10-1&color=blueviolet&style=for-the-badge)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maykhol10-1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maykhol10-1&layout=compact&theme=radical&hide_border=true)
-
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Maykhol10-1&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maykhol10-1&show_icons=true&theme=transparent&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maykhol10-1&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
