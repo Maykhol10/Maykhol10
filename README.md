@@ -148,7 +148,7 @@ Celda robotizada para automatización industrial con control de movimiento.
 
 <!-- Agrega aquí tus proyectos más importantes
 
-### 🔹 [Nombre del Proyecto](https://github.com/Maykhol10-1/nombre-del-repo)
+### 🔹 [Nombre del Proyecto](https://github.com/Maykhol10/nombre-del-repo)
 
 Breve descripción del proyecto y qué problema resuelve.
 
@@ -177,14 +177,14 @@ Breve descripción del proyecto y qué problema resuelve.
 - 📧 Email: `[tu-email@example.com]`
 - 💼 LinkedIn: `[tu-perfil-linkedin]`
 - 🏢 **Empresa:** [Electrofy - IoT Solutions](https://www.electrofy.com.pe/)
-- 🐙 GitHub: [Maykhol10-1](https://github.com/Maykhol10-1)
+- 🐙 GitHub: [Maykhol10](https://github.com/Maykhol10)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maykhol10-1&show_icons=true&theme=transparent&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maykhol10-1&layout=compact&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maykhol10&show_icons=true&theme=transparent&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maykhol10&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
