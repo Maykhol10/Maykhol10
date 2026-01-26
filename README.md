@@ -55,9 +55,9 @@ Me apasiona desarrollar soluciones innovadoras que integran __sistemas mecánico
 
 ### Founder & Lead Developer
 
-__Electrofy - IoT Solutions__ | _Perú_ | _2024 - Present_
+__Electrofy - IoT Solutions__ | _Perú_ | _2025 - Present_
 
-Empresa emergente enfocada en __soluciones IoT, automatización industrial y mecatrónica__.
+Startup en desarrollo enfocada en __soluciones IoT, automatización industrial y mecatrónica__.
 
 ![Electrofy](https://img.shields.io/badge/Electrofy-IoT_Solutions-00979B?logo=iot&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-008000?logo=iot&logoColor=white)
