@@ -64,7 +64,7 @@ Startup en desarrollo enfocada en __soluciones IoT, automatización industrial y
 ![Automation](https://img.shields.io/badge/Automation-009999?logo=siemens&logoColor=white)
 
 **What we do:**
-- Desarrollo de soluciones IoT industriales (AQUADATA 3.0, gateways)
+- Desarrollo de soluciones IoT industriales (AgroSmart, gateways)
 - Automatización y robótica con PLC, SCADA y Edge AI
 - Diseño de hardware propio (PCB, firmware, dashboards)
 - Ciberseguridad industrial y compliance
@@ -115,9 +115,9 @@ Especialización en:
 
 ### 🏢 Electrofy Projects
 
-#### 🔹 AQUADATA 3.0 - IoT Industrial Gateway
+#### 🔹 AgroSmart - IoT Agricultural Gateway
 
-Sistema de telemetría y monitoreo remoto para aplicaciones industriales.
+Sistema de telemetría y monitoreo remoto para aplicaciones agrícolas e industriales.
 
 ![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
