@@ -53,6 +53,29 @@ Me apasiona desarrollar soluciones innovadoras que integran __sistemas mecánico
 
 ## 💼 Professional Experience
 
+### Founder & Lead Developer
+
+__Electrofy - IoT Solutions__ | _Perú_ | _2024 - Present_
+
+Empresa emergente enfocada en __soluciones IoT, automatización industrial y mecatrónica__.
+
+![Electrofy](https://img.shields.io/badge/Electrofy-IoT_Solutions-00979B?logo=iot&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-008000?logo=iot&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-009999?logo=siemens&logoColor=white)
+
+**What we do:**
+- Desarrollo de soluciones IoT industriales (AQUADATA 3.0, gateways)
+- Automatización y robótica con PLC, SCADA y Edge AI
+- Diseño de hardware propio (PCB, firmware, dashboards)
+- Ciberseguridad industrial y compliance
+- Venta de componentes electrónicos y kits de proyectos
+
+**Technologies:**
+- Arduino, ESP32, Raspberry Pi
+- PLC Siemens, TIA Portal
+- Python, C/C++
+- Cloud platforms y telemetría
+
 ### Lead IoT Developer
 
 __Empresa de Proyectos__ | _Perú_
@@ -90,6 +113,39 @@ Especialización en:
 
 ## 🚀 Featured Projects
 
+### 🏢 Electrofy Projects
+
+#### 🔹 AQUADATA 3.0 - IoT Industrial Gateway
+
+Sistema de telemetría y monitoreo remoto para aplicaciones industriales.
+
+![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-008000?logo=iot&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-FF9900?logo=aws&logoColor=white)
+
+**Key Features:**
+- PCB propia con firmware seguro
+- Dashboard web en tiempo real
+- Conectividad WiFi/LoRaWAN
+- 99.9% uptime en telemetría
+- Cifrado end-to-end
+
+#### 🔹 Robotic Cell Automation
+
+Celda robotizada para automatización industrial con control de movimiento.
+
+![PLC](https://img.shields.io/badge/PLC_Siemens-009999?logo=siemens&logoColor=white)
+![TIA Portal](https://img.shields.io/badge/TIA_Portal-009999?logo=siemens&logoColor=white)
+![SCADA](https://img.shields.io/badge/SCADA-009999?logo=siemens&logoColor=white)
+
+**Key Features:**
+- Control de movimiento preciso
+- Integración PLC + SCADA
+- Edge AI para predicción
+- Safety first design
+- Incremento de OEE
+
 <!-- Agrega aquí tus proyectos más importantes
 
 ### 🔹 [Nombre del Proyecto](https://github.com/Maykhol10-1/nombre-del-repo)
@@ -107,8 +163,6 @@ Breve descripción del proyecto y qué problema resuelve.
 
 -->
 
-*🔧 Próximamente... Mis proyectos estarán disponibles aquí*
-
 ---
 
 ## 🌍 Languages
@@ -122,8 +176,8 @@ Breve descripción del proyecto y qué problema resuelve.
 
 - 📧 Email: `[tu-email@example.com]`
 - 💼 LinkedIn: `[tu-perfil-linkedin]`
+- 🏢 **Empresa:** [Electrofy - IoT Solutions](https://www.electrofy.com.pe/)
 - 🐙 GitHub: [Maykhol10-1](https://github.com/Maykhol10-1)
-- 🌐 Portfolio: `[Próximamente]`
 
 ---
 
