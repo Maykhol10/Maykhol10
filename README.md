@@ -1,195 +1,108 @@
 ## 👋 Hi, I'm Diosdado Maykhol Jurado Mulato
 
-__Bachiller en Ingeniería Mecatrónica__ especializado en __IoT, automatización industrial y sistemas de control__.
+Mechatronics Engineer focused on **end-to-end IoT product development**, from custom PCB design to firmware and cloud deployment.
 
-Me apasiona desarrollar soluciones innovadoras que integran __sistemas mecánicos, electrónicos y software__ para crear proyectos de IoT inteligentes y automatizados.
+I build real-world embedded systems integrating hardware, firmware and telemetry infrastructure for industrial and agricultural monitoring.
 
 ---
 
 ## 🔧 Core Expertise
 
-- Desarrollo de __soluciones IoT__ para automatización industrial
-- Implementación de __sistemas de control__ con PLC y TIA Portal
-- Diseño de __sistemas embebidos__ con Arduino, ESP32 y Raspberry Pi
-- __Simulación y modelado__ de sistemas mecatrónicos con MATLAB/Simulink
-- Integración de __sensores y actuadores__ en proyectos de automatización
-- Diseño __3D y mecánico__ con SolidWorks y AutoCAD
+- End-to-end **IoT system development**
+- Custom **PCB design in KiCad** (SMD, rework & prototyping)
+- Firmware development for **ESP32 (C/C++)**
+- Industrial sensor integration (**RS485 / Modbus RTU**)
+- MQTT communication & cloud-based real-time monitoring
+- Deployment of self-hosted servers for telemetry dashboards
+- OTA firmware update systems
+- Embedded instrumentation & field validation
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🌐 IoT & Embedded Systems
+### 🌐 IoT & Embedded
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberry-pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-### ⚙️ Automation & Control
-
-![Siemens PLC](https://img.shields.io/badge/PLC_Siemens-009999?logo=siemens&logoColor=white)
-![TIA Portal](https://img.shields.io/badge/TIA_Portal-009999?logo=siemens&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?logo=ni&logoColor=black)
-
-### 💻 Programming
-
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?logo=eclipse-mosquitto&logoColor=white)
 
-### 🔧 Mechanical Design
+### 📡 Industrial Communication
 
+![Modbus](https://img.shields.io/badge/Modbus-003366?logo=modbus&logoColor=white)
+![RS485](https://img.shields.io/badge/RS485-444444?logo=serial&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+
+- Self-hosted Linux servers
+- MQTT brokers
+- Real-time dashboards
+- Data export & monitoring pipelines
+
+### 🔧 Hardware & Design
+
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?logo=kicad&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E40046?logo=solidworks&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E40046?logo=autodesk&logoColor=white)
-
-### 📊 Tools & Practices
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-### Founder & Lead Developer
+### IoT Product Developer  
+_Perú_
 
-__Electrofy - IoT Solutions__ | _Perú_ | _2025 - Present_
+Development of industrial IoT monitoring systems currently deployed in the aquaculture sector.
 
-Startup en desarrollo enfocada en __soluciones IoT, automatización industrial y mecatrónica__.
-
-![Electrofy](https://img.shields.io/badge/Electrofy-IoT_Solutions-00979B?logo=iot&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-008000?logo=iot&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-009999?logo=siemens&logoColor=white)
-
-**What we do:**
-- Desarrollo de soluciones IoT industriales (AgroSmart, gateways)
-- Automatización y robótica con PLC, SCADA y Edge AI
-- Diseño de hardware propio (PCB, firmware, dashboards)
-- Ciberseguridad industrial y compliance
-- Venta de componentes electrónicos y kits de proyectos
-
-**Technologies:**
-- Arduino, ESP32, Raspberry Pi
-- PLC Siemens, TIA Portal
-- Python, C/C++
-- Cloud platforms y telemetría
-
-### Lead IoT Developer
-
-__Empresa de Proyectos__ | _Perú_
-
- Desarrollo de soluciones IoT para automatización industrial y control de procesos.
-
-![IoT](https://img.shields.io/badge/IoT-008000?logo=iot&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC-009999?logo=siemens&logoColor=white)
-
-**Responsibilities:**
-- Desarrollo de sistemas IoT para monitoreo y control industrial
-- Implementación de automatización con PLC Siemens y TIA Portal
-- Integración de sensores y dispositivos conectados
-- Programación de microcontroladores para sistemas embebidos
-
----
-
-## 🎓 Education
-
-### Bachiller en Ingeniería Mecatrónica
-
-__Universidad Privada del Norte (UPN)__ | _2025_
-
-![Mechatronics](https://img.shields.io/badge/Mechatronics-E40046?logo=robot&logoColor=white)
-
-Especialización en:
-- Automatización y Control
-- Sistemas Embebidos
-- Electrónica Digital
-- Diseño Mecánico
+**Highlights:**
+- Designed custom PCB boards in KiCad
+- Developed secure ESP32 firmware in C++
+- Integrated industrial sensors via RS485 / Modbus RTU
+- Implemented MQTT-based telemetry
+- Deployed cloud infrastructure for real-time monitoring
+- OTA firmware update support
+- System currently operating in production environment
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏢 Electrofy Projects
+### 🌊 Environmental Monitoring System (Aquaculture)
 
-#### 🔹 AgroSmart - IoT Agricultural Gateway
-
-Sistema de telemetría y monitoreo remoto para aplicaciones agrícolas e industriales.
-
-![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-008000?logo=iot&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-FF9900?logo=aws&logoColor=white)
+Industrial monitoring platform integrating sensors and cloud telemetry.
 
 **Key Features:**
-- PCB propia con firmware seguro
-- Dashboard web en tiempo real
-- Conectividad WiFi/LoRaWAN
-- 99.9% uptime en telemetría
-- Cifrado end-to-end
-
-#### 🔹 Robotic Cell Automation
-
-Celda robotizada para automatización industrial con control de movimiento.
-
-![PLC](https://img.shields.io/badge/PLC_Siemens-009999?logo=siemens&logoColor=white)
-![TIA Portal](https://img.shields.io/badge/TIA_Portal-009999?logo=siemens&logoColor=white)
-![SCADA](https://img.shields.io/badge/SCADA-009999?logo=siemens&logoColor=white)
-
-**Key Features:**
-- Control de movimiento preciso
-- Integración PLC + SCADA
-- Edge AI para predicción
-- Safety first design
-- Incremento de OEE
-
-<!-- Agrega aquí tus proyectos más importantes
-
-### 🔹 [Nombre del Proyecto](https://github.com/Maykhol10/nombre-del-repo)
-
-Breve descripción del proyecto y qué problema resuelve.
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-008000?logo=iot&logoColor=white)
-
-**Key Features:**
-- Característica 1 del proyecto
-- Característica 2 del proyecto
-- Característica 3 del proyecto
-
--->
+- Custom PCB hardware
+- ESP32 firmware (C++)
+- RS485 / Modbus RTU integration
+- MQTT real-time communication
+- Cloud-based visualization dashboard
+- Production deployment
 
 ---
 
-## 🌍 Languages
+### 🌱 Hydroponic Automation System
 
-- 🇪🇸 **Spanish** - Native
-- 🇬🇧 **English** - Basic (WETALK UPC)
+Self-developed monitoring and control system for hydroponic agriculture.
+
+**Key Features:**
+- Sensor integration
+- Embedded control logic
+- Remote data visualization
+- Scalable IoT architecture
+
+---
+
+## 🎓 Academic & Teaching Experience
+
+- External Research Collaborator – Robotics
+- Robotics Instructor (Otto DIY & Otto Ninja humanoid workshops)
+- Industrial Automation Guest Instructor (Collaborative robot programming)
 
 ---
 
 ## 📫 Connect with Me
 
-- 📧 Email: `[tu-email@example.com]`
-- 💼 LinkedIn: `[tu-perfil-linkedin]`
-- 🏢 **Empresa:** [Electrofy - IoT Solutions](https://www.electrofy.com.pe/)
-- 🐙 GitHub: [Maykhol10](https://github.com/Maykhol10)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maykhol10&show_icons=true&theme=transparent&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maykhol10&layout=compact&theme=transparent&hide_border=true)
-
----
-
-> _"La mecatrónica es el arte de hacer que las cosas piensen, se muevan y trabajen juntas."_
-
----
-
-🤝 **¡Thanks for visiting my profile!**
+- 📧 Email: diosdadomaykhol.jm@gmail.com
+- 🐙 GitHub: https://github.com/Maykhol10
