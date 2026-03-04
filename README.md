@@ -1,108 +1,124 @@
-## 👋 Hola, soy Diosdado Maykhol Jurado Mulato
+# 👋 Hola, soy Diosdado Maykhol Jurado Mulato
 
-Ingeniero Mecatrónico enfocado en el **desarrollo integral de productos IoT**, desde el diseño de PCB personalizados hasta el firmware y despliegue en la nube.
-
+Ingeniero Mecatrónico enfocado en el **desarrollo integral de productos IoT**, desde el diseño de PCB personalizados hasta el firmware y despliegue en la nube.  
 Construyo sistemas embebidos reales que integran hardware, firmware e infraestructura de telemetría para monitoreo industrial y agrícola.
 
 ---
 
 ## 🔧 Competencias Principales
 
-- Desarrollo **integral de sistemas IoT**
+- Desarrollo **integral de sistemas IoT** (hardware → firmware → nube)
 - Diseño de **PCB personalizados en KiCad** (SMD, retrabajo y prototipado)
-- Desarrollo de firmware para **ESP32 (C/C++)**
+- Desarrollo de firmware para **ESP32 en C/C++**
 - Integración de sensores industriales (**RS485 / Modbus RTU**)
-- Comunicación MQTT y monitoreo en tiempo real en la nube
-- Despliegue de servidores propios para dashboards de telemetría
-- Sistemas de actualización de firmware OTA
-- Instrumentación embebida y validación en campo
+- Comunicación **MQTT** y monitoreo en tiempo real en la nube
+- Despliegue de **servidores propios** para dashboards de telemetría
+- Sistemas de **actualización de firmware OTA**
+- Instrumentación embebida y **validación en campo**
 
 ---
 
 ## 🛠 Stack Tecnológico
 
 ### 🌐 IoT y Sistemas Embebidos
-
 ![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?logo=platformio&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00878F?logo=freertos&logoColor=white)
+
+### 📡 Comunicación y Protocolos
 ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=eclipse-mosquitto&logoColor=white)
-
-### 📡 Comunicación Industrial
-
-![Modbus](https://img.shields.io/badge/Modbus-003366?logo=modbus&logoColor=white)
-![RS485](https://img.shields.io/badge/RS485-444444?logo=serial&logoColor=white)
+![Modbus RTU](https://img.shields.io/badge/Modbus_RTU-003366?logoColor=white)
+![RS485](https://img.shields.io/badge/RS485-444444?logoColor=white)
+![WiFi](https://img.shields.io/badge/WiFi-0078D7?logo=wifi&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?logo=bluetooth&logoColor=white)
 
 ### ☁️ Nube e Infraestructura
-
-- Servidores Linux autoalojados
-- Brokers MQTT
-- Dashboards en tiempo real
-- Pipelines de exportación de datos y monitoreo
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Node--RED](https://img.shields.io/badge/Node--RED-8F0000?logo=node-red&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ### 🔧 Hardware y Diseño
-
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?logo=kicad&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E40046?logo=solidworks&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E40046?logo=dassaultsystemes&logoColor=white)
 
 ---
 
 ## 💼 Experiencia Profesional
 
-### Desarrollador de Productos IoT  
-_Perú_
+### Desarrollador de Productos IoT — Grupo Ere  
+📍 _Perú · 2024 – 2025_
 
-Desarrollo de sistemas de monitoreo IoT industrial actualmente desplegados en el sector acuícola.
+Desarrollo del sistema **CAPRICORNIO**, una plataforma IoT de monitoreo ambiental desplegada en producción en el sector acuícola (Arfish, Vitapro, entre otros).
 
 **Aspectos destacados:**
-- Diseño de placas PCB personalizadas en KiCad
-- Desarrollo de firmware seguro para ESP32 en C++
+- Diseño de PCB personalizadas en KiCad (componentes SMD)
+- Firmware seguro para ESP32 en C++ con actualización OTA
 - Integración de sensores industriales vía RS485 / Modbus RTU
-- Implementación de telemetría basada en MQTT
-- Despliegue de infraestructura en la nube para monitoreo en tiempo real
-- Soporte de actualización de firmware OTA
-- Sistema actualmente operando en entorno de producción
+- Telemetría en tiempo real basada en MQTT
+- Despliegue de infraestructura propia en la nube (broker MQTT + dashboards)
+- **Sistema operando actualmente en entorno de producción**
+
+### Investigador Externo — UNMSM, Facultad de Ingeniería Industrial  
+📍 _Lima, Perú · Actual_
+
+Investigación y docencia en robótica aplicada y automatización industrial.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 🌊 Sistema de Monitoreo Ambiental (Acuicultura)
+### 🌊 CAPRICORNIO — Monitoreo Ambiental para Acuicultura
+Plataforma IoT industrial end-to-end para monitoreo de parámetros ambientales en plantas acuícolas.
 
-Plataforma de monitoreo industrial que integra sensores y telemetría en la nube.
-
-**Características principales:**
-- Hardware con PCB personalizado
-- Firmware en ESP32 (C++)
-- Integración RS485 / Modbus RTU
-- Comunicación en tiempo real por MQTT
-- Dashboard de visualización en la nube
-- Despliegue en producción
+| Componente | Detalle |
+|---|---|
+| **Hardware** | PCB personalizado diseñado en KiCad (SMD) |
+| **Firmware** | ESP32 en C++ con OTA y watchdog |
+| **Sensores** | Industriales vía RS485 / Modbus RTU |
+| **Comunicación** | MQTT sobre WiFi / datos móviles |
+| **Nube** | Servidor propio con dashboard en tiempo real |
+| **Estado** | ✅ Desplegado en producción |
 
 ---
 
-### 🌱 Sistema de Automatización Hidropónica
+### 🌱 AGROSMART — Automatización Hidropónica
+Sistema de monitoreo y control para agricultura hidropónica con arquitectura IoT escalable.
 
-Sistema de monitoreo y control de desarrollo propio para agricultura hidropónica.
+| Componente | Detalle |
+|---|---|
+| **Hardware** | Sensores de pH, EC, temperatura, nivel |
+| **Firmware** | ESP32 con lógica de control embebida |
+| **Comunicación** | MQTT con visualización remota |
+| **Estado** | 🔄 En desarrollo activo |
 
-**Características principales:**
-- Integración de sensores
-- Lógica de control embebida
-- Visualización remota de datos
-- Arquitectura IoT escalable
+---
+
+### 🤖 Otto Ninja — Robot Humanoide Educativo
+Robot humanoide basado en Otto DIY con funcionalidades avanzadas para talleres educativos.
+
+| Componente | Detalle |
+|---|---|
+| **Control** | ESP32 con interfaz web (WiFi) |
+| **Funciones** | Caminata, secuencias de ataque, dashboard web |
+| **Aplicación** | Talleres de robótica para diversas edades |
+| **Material** | Manual PDF y curso completo desarrollado |
 
 ---
 
 ## 🎓 Experiencia Académica y Docente
 
-- Colaborador Externo de Investigación – Robótica
-- Instructor de Robótica (Talleres de humanoides Otto DIY y Otto Ninja)
-- Instructor Invitado de Automatización Industrial (Programación de robots colaborativos)
+- **Investigador Externo** — UNMSM, Facultad de Ingeniería Industrial (Robótica)
+- **Instructor de Robótica** — Talleres de robots humanoides Otto DIY y Otto Ninja
+- **Instructor Invitado** — Automatización industrial con robots colaborativos Dobot Magician E6
 
 ---
 
 ## 📫 Contáctame
 
-- 📧 Correo: diosdadomaykhol.jm@gmail.com
-- 🐙 GitHub: [Maykhol10](https://github.com/Maykhol10)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diosdadomaykhol.jm@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Maykhol10)
+[![Web](https://img.shields.io/badge/Electrofy-0A66C2?logo=google-chrome&logoColor=white)](https://electrofy.com.pe)
