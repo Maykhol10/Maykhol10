@@ -3,6 +3,8 @@
 Ingeniero Mecatrónico enfocado en el **desarrollo integral de productos IoT**, desde el diseño de PCB personalizados hasta el firmware y despliegue en la nube.  
 Construyo sistemas embebidos reales que integran hardware, firmware e infraestructura de telemetría para monitoreo industrial y agrícola.
 
+🌐 **Portafolio:** [maykhol10.github.io/Portafolio](https://maykhol10.github.io/Portafolio/)
+
 ---
 
 ## 🔧 Competencias Principales
@@ -26,7 +28,6 @@ Construyo sistemas embebidos reales que integran hardware, firmware e infraestru
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?logo=platformio&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00878F?logo=freertos&logoColor=white)
 
 ### 📡 Comunicación y Protocolos
 ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=eclipse-mosquitto&logoColor=white)
@@ -39,18 +40,19 @@ Construyo sistemas embebidos reales que integran hardware, firmware e infraestru
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Node--RED](https://img.shields.io/badge/Node--RED-8F0000?logo=node-red&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ### 🔧 Hardware y Diseño
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?logo=kicad&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E40046?logo=dassaultsystemes&logoColor=white)
+![Inventor](https://img.shields.io/badge/Inventor-0696D7?logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1DA462?logo=proteus&logoColor=white)
 
 ---
 
 ## 💼 Experiencia Profesional
 
 ### Desarrollador de Productos IoT — Grupo Ere  
-📍 _Perú · 2024 – 2025_
+📍 _Perú · 2025_
 
 Desarrollo del sistema **CAPRICORNIO**, una plataforma IoT de monitoreo ambiental desplegada en producción en el sector acuícola (Arfish, Vitapro, entre otros).
 
@@ -121,4 +123,4 @@ Robot humanoide basado en Otto DIY con funcionalidades avanzadas para talleres e
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diosdadomaykhol.jm@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Maykhol10)
-[![Web](https://img.shields.io/badge/Electrofy-0A66C2?logo=google-chrome&logoColor=white)](https://electrofy.com.pe)
+[![Portafolio](https://img.shields.io/badge/Portafolio-0A66C2?logo=google-chrome&logoColor=white)](https://maykhol10.github.io/Portafolio/)
